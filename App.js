@@ -13,8 +13,8 @@ function App() {
     <h1 class="animate__animated  animate__backOutRight">An animated element</h1>
     <h1 className='animate__animated animate__flip'>An animated element</h1>
     <h1 class="animate__animated  animate__backOutRight">An animated element</h1>
-    <h1 className='animate__animated animate__flip'>An animated element</h1>
-    <h1 class="animate__animated  animate__backOutRight">An animated element</h1>
+    <h1 className='animate__animated animate__flip'>An animated element12345</h1>
+  
     </>
   
   );
